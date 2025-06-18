@@ -1,30 +1,30 @@
 [
     {
-        "company": "Politeknik Negeri Semarang",
+        "company": "GARWO Wedding Orzanizer Semarang",
 		"logo":"images/polines-logo.png",
-        "position": "Electronic Engineering Lecturer",
-        "year": "2022 - Present",
-        "description": "As a Lecturer in Electronic Engineering, I am actively involved in academic and administrative responsibilities, including leading the study program accreditation taskforce to ensure continuous quality improvement. In addition, I lead and manage several projects, contributing to both institutional development and practical engineering applications."
+        "position": "Crew Wedding Organizer (WO)",
+        "year": "2023 - sekarang",
+        "description": "Sebagai Crew WO tugasnya meliputi berbagai aspek persiapan dan pelaksanaan pernikahan, mulai dari perencanaan konsep acara, penyusunan anggaran, koordinasi vendor, hingga memastikan kelancaran acara pada hari-H dan penyelesaian tugas setelah acara. "
     },
 	{
-        "company": "Universitas Multimedia Nusantara",
+        "company": "Politeknik Negeri Semarang",
 		"logo":"images/umn-logo.png",
-        "position": "Computer Engineering Lecturer",
-        "year": "2019 - 2021",
-        "description": "As a Lecturer in Computer Engineering, I am involved in the end-to-end pedagogy process, including updating lesson plans based on Outcome-Based Education (OBE) and current issues, developing interactive and easy-to-understand lecture materials, and assessing student outcomes. I am actively engaged in research and community outreach, with several publications and intellectual property to my name. Appointed as the Research Coordinator in the Faculty of Engineering and Informatics under the Dean, I organize regular meetings (FTI Research Talk), coaching clinics for publication and grant writing, manage UMN journals, and collaborate with external parties to promote research. Additionally, I actively contribute to the promotion and marketing of UMN to prospective students, participate in curriculum development, and handle administrative tasks related to accreditation and quality improvement. I have also successfully led several projects funded by both internal and external sources."
+        "position": "Bendahara Divisi Sponsorship & Kewirausahaan ",
+        "year": "2023 - 2024",
+        "description": "Sebagai Bendaha Divisi Sponsorship & Kewirausaan Himpunan Mahasiswa Elektro bertugas mengelola keuangan yang terkait dengan kegiatan sponsorship dan usaha yang dilakukan oleh divisi Sponsorship & Kewirausahaan"
     },
     {
-        "company": "Epson Indonesia Industry",
+        "company": "SMA Negeri 1 Brebes",
 		"logo":"images/epson-logo.png",
-        "position": "Failure Analyst",
-        "year": "2015 - 2016",
-        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
+        "position": "Ketua OSIS",
+        "year": "2020 - 2021",
+        "description": "Sebagai Ketua OSIS bertugas Memimpin organisasi dan mengkoordinasikan berbagai kegiatan sekolah, Mengatur program kerja dan memastikan pelaksanaan berjalan dengan baik, Mengembangkan kemampuan komunikasi dan kerja sama tim"
     },
 	{
-        "company": "Lembaga Ilmu Pengetahuan Indonesia",
+        "company": "SMA Negeri 1 Brebes",
 		"logo":"images/lipi-logo.png",
-        "position": "Automation",
-        "year": "2014",
-        "description": "I have built an embedded system for water sampling and designed and implemented a wireless sensor network for monitoring shrimp fields. Additionally, I authored an academic paper for international publication titled [A wireless sensor network platform for shrimp farm monitoring](https://ieee.org/abstract/document/7237850), which has received 40 citations."
+        "position": "Sekretaris",
+        "year": "2019 - 2020",
+        "description": "Sebagai Sekretaris OSIS bertugas menyusun proposal dan laporan kegiatan, Mengatur jadwal rapat dan dokumentasi program kerja."
     }
 ]
